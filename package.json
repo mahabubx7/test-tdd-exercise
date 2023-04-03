@@ -1,0 +1,29 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "tdd-exercise",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-mahabubx7:mahabubx7/test-tdd-exercise.git"
+  },
+  "keywords": [
+    "TDD",
+    "Jest",
+    "Testing"
+  ],
+  "author": "Mahabub <mahabubx7@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
