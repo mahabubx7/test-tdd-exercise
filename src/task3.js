@@ -1,4 +1,8 @@
 class Calculator {
+  constructor(name = 'Basic calculator') {
+    this.name = name;
+  }
+
   static add(x, y) {
     return x + y;
   }
