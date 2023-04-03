@@ -1,0 +1,11 @@
+# for nodejs environment
+node_modules/
+*-error.log
+.cache
+.tmp
+
+# others & misc.
+.DS_Store
+.ini
+.exe
+.vscode
